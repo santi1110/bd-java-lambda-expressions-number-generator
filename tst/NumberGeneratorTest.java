@@ -1,5 +1,3 @@
-package com.amazon.ata.lambdaexpressions.prework.supplier;
-
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

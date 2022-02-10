@@ -1,5 +1,3 @@
-package com.amazon.ata.lambdaexpressions.prework.supplier;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Supplier;
